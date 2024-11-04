@@ -1,0 +1,27 @@
+{
+  "version": "3.78.30747.0",
+  "course_id": "5x8BOUNEw5r",
+  "title": "panorámica de la equidad",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Escena sin título"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5hPYaKzRIVp",
+      "title": "Escenario 1",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1120,
+    "height": 845
+  },
+  "stage": {
+    "width": 1100,
+    "height": 750
+  }
+}
